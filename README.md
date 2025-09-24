@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## 🙌 Olá me chamo Lara 🙌
 ### Bem vindo ao meu perfil GitHub 😁 
 Atualmente estou estudando na escola SESI de Osvaldo Cruz no 2 °ano do Ensino Médio, e realizando um curso do SENAI de desenvolvimento de Sistemas. 
+<br></br> 
 Apaixonada por música 🎹🎶🎵
 
 ![luan-santana-dançando](https://github.com/user-attachments/assets/9d961461-68a4-46d5-8638-a66c183e2bbc)
