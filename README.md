@@ -19,6 +19,7 @@ Atualmente estou estudando na escola SESI de Osvaldo Cruz no 2 °ano do Ensino M
 Apaixonada por música 🎹🎶🎵
 
 ![luan-santana-dançando](https://github.com/user-attachments/assets/9d961461-68a4-46d5-8638-a66c183e2bbc)
+<br></br> 
 Como entrar em contato comigo: 📩 lara.marquez@aluno.senai.br
 
 
