@@ -46,5 +46,4 @@ Como entrar em contato comigo: 📩 lara.marquez@aluno.senai.br
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lara-segatello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--avatar -->
-<div class="tenor-gif-embed" data-postid="13926288224701120626" data-share-method="host" data-aspect-ratio="1.46296" data-width="100%"><a href="https://tenor.com/view/lulucochorando-luansantana-gif-13926288224701120626">Lulucochorando Luansantana GIF</a>from <a href="https://tenor.com/search/lulucochorando-gifs">Lulucochorando GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![animated-sticker](https://github.com/user-attachments/assets/54c1c3d7-6722-443b-b39e-60689ce35cdd)
